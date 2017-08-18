@@ -1,5 +1,5 @@
 # crazy_racing
-An html5 game about racing.
+An html5 car-racing game.
 
 - **Author:** Yuehao Wang
 - **Game Engine:** [lufylegend.js](http://lufylegend.com/lufylegend)
