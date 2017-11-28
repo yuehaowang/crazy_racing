@@ -1,4 +1,4 @@
-# crazy_racing
+# Crazy Racing
 An html5 car-racing game.
 
 - **Author:** Yuehao Wang
